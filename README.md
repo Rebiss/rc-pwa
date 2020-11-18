@@ -3,7 +3,7 @@
 [![Yarn](https://img.shields.io/badge/yarn-1.22.5-violet)]()
 <hr/>
 
-(!text-alt)[https://i1.wp.com/www.ecommerce-nation.com/wp-content/uploads/2017/04/Does-your-E-commerce-Need-Progressive-Web-Apps-to-develop.png?fit=1000%2C600&ssl=1]
+<img src='https://i1.wp.com/www.ecommerce-nation.com/wp-content/uploads/2017/04/Does-your-E-commerce-Need-Progressive-Web-Apps-to-develop.png?fit=1000%2C600&ssl=1' >
 
 ## <i>About</i>
 PWA stands for progressive web app. This is an app built from the web technologies we all know and love, like HTML, CSS, and JavaScript, but with a feel and functionality that rivals an actual native app. Thanks to a couple of smart additions, you can turn almost any website into a progressive web app. This means that you can build a PWA rather quickly, in regards to a native app that’s pretty difficult to develop. Plus, you can offer all the features of native apps, like push notifications, offline support, and much more.<br />
