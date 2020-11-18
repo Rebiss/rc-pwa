@@ -1,9 +1,7 @@
 import React from 'react'
+import {Search} from './Search/Serach.jsx'
 
 export const Endpoint = () => {
     return (
-        <div>
-            Hello
-        </div>
-    )
-}
+        <Search />
+)}

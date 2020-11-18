@@ -4,7 +4,7 @@ import {Endpoint} from './components/Endpoint.js'
 
 ReactDOM.render(
     <StrictMode>
-        <Endpoint />
+        <Endpoint/>
     </StrictMode>, 
     document.getElementById('rootik')
 )
